@@ -1,0 +1,25 @@
+/*
+ *Name: Sawyer Cumbow
+ *UnityID: sycumbow
+ *Date: 11/19/22
+ *Assignment: IA 5
+ *Description: making a website and styling it
+ */
+ 
+.selector 1{
+    height: 100px;
+	width: 100px;
+	background-color: #FFA500;
+}
+
+.selector 2{
+    height: 100px;
+	width: 100px;
+	border: solid 2px;
+}
+
+.selector 3{
+    height: 250px;
+	width: 200px;
+	border: springgreen solid 2px;
+}
